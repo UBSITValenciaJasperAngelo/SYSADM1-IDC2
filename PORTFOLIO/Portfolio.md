@@ -5,90 +5,29 @@
 
 > **Table of Contents**
 
-+----------------------------------------+--------------+--------------+
-| **Name of Activities**                 | **Date of    | **Page No.** |
-|                                        | Activity**   |              |
-+----------------------------------------+--------------+--------------+
-| **First Grading**                      |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              | 1            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              | 3            |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| First Grading Exam                     |              |              |
-+----------------------------------------+--------------+--------------+
-| **Midterms**                           |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Midterm Exam                           |              |              |
-+----------------------------------------+--------------+--------------+
-| **Finals**                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Quizzes                                |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 1                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 2                               |              |              |
-+----------------------------------------+--------------+--------------+
-| > Quiz 3                               |              |              |
-+----------------------------------------+--------------+--------------+
-| Other Activities                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| > \<Name of Activity/Exercise/Library  |              |              |
-| > Research/Etc\>                       |              |              |
-+----------------------------------------+--------------+--------------+
-| Final Exam                             |              |              |
-+----------------------------------------+--------------+--------------+
-| Course Reflection                      |              |              |
+| **Name of Activities** | **Date of Activity** |
+| :--------------------: | :------------------: |
+| **First Grading**                             |
+| Python Hat             |  00/00/2024          |
+| SQL Hat                |  00/00/2024          |
+| Codecademy Tee         |  00/00/2024          |
+| **Second Grading**                            |
+| Python Hat             |  00/00/2024          |
+| SQL Hat                |  00/00/2024          |
+| Codecademy Tee         |  00/00/2024          |
+| **Finals Grading**                            |
+| Python Hat             |  00/00/2024          |
+| SQL Hat                |  00/00/2024          |
+| Codecademy Tee         |  00/00/2024          |
+| Course Reflection      |                      |
 
 
-**\<insert your scanned activities here include title\>**
 
 **Quiz 1:**
 
 ![](vertopal_90ba97310a7740d5979494f5428e215d/media/image2.png)
 
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
+
 
 
 **Course Reflection**
@@ -96,42 +35,51 @@ quizzes/activities/exam\>**
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
-  My initial expectations in System Administration course exceed my expectation at first i thought this i like SERADM1 course but it is more knowledgable in terms on monitoring and troubleshooting 
+  | hellow |
+  | :---------- |
+
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
 
-  adsjfhkasdf
+  | hellow |
+  | :---------- |
 
 Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
 material?
 
-  asdfsadf
+  | hellow |
+  | :---------- |
 
 Were there any particular assignments, projects, or activities that
 significantly enhanced your learning experience? Why were they
 effective?
 
-  asdfa
+  | hellow |
+  | :---------- |
 
 Did you encounter any challenges or difficulties during the course? How
 did you overcome these obstacles, and what did you learn from them?
 
-  asdf
+  | hellow |
+  | :---------- |
 
 Did the course encourage critical thinking and analysis? How did it
 promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
-  asdf
+  | hellow |
+  | :---------- |
 
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
 
-  asdf
+  | hellow |
+  | :---------- |
 
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
-  asdf
+  | hellow |
+  | :---------- |
